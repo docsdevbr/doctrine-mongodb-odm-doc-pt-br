@@ -3,7 +3,8 @@
 [![Arquivo README em inglês][readme-badge-en]][readme-lang-en]
 [![Arquivo README em português brasileiro][readme-badge-pt-br]][readme-lang-pt-br]
 
-Tradução da Documentação do Doctrine MongoDB ODM para português brasileiro.
+Tradução da Documentação do Doctrine MongoDB Object Document Mapper para
+português brasileiro.
 
 ## Apoio
 
